@@ -1,12 +1,13 @@
 /* Git Page - 2.0 */
 
 
-body {
+html {
 	background-attachment: scroll; 
 	background:url(assets/apple-iphone-books-desk64.gif); 
 	min-height:100%; 
 	background-size:cover; 
 	background-position: center;
+	background-repeat: no-repeat;
 }
 
 img {
@@ -22,14 +23,13 @@ img {
 	font-family: 'Crushed',Times,Times New Roman,serif; 
 	font-size:45px; 
 	padding:6px;
+	background-color:#CD4144;
 }
 
-.blm-motto-bg {
-	background-color:#CD4144; 
+.blm-motto-bg { 
 	height:60px; 
-	width: 330px;
+	width: 340px;
 	display: block;
-	width: 330px;
 	margin: auto;
 }
 
@@ -39,7 +39,7 @@ img {
 	width: 280px;
 }
 
-.blm-motto-bg:hover {
+.blm-motto:hover {
 	background-color:#5f9cb8;
 }
 
