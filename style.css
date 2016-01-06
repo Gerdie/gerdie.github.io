@@ -1,0 +1,57 @@
+/* Git Page - 2.0 */
+
+
+body {
+	background-attachment: scroll; 
+	background:url(assets/apple-iphone-books-desk64.gif); 
+	min-height:100%; 
+	background-size:cover; 
+	background-position: center;
+}
+
+img {
+	display: block;
+	width: 300px;  
+	border:0; 
+	margin: 70px auto 0px;
+}
+
+.blm-motto {
+	text-align:center; 
+	color:#FFFFFF; 
+	font-family: 'Crushed',Times,Times New Roman,serif; 
+	font-size:45px; 
+	padding:6px;
+}
+
+.blm-motto-bg {
+	background-color:#CD4144; 
+	height:60px; 
+	width: 330px;
+	display: block;
+	width: 330px;
+	margin: auto;
+}
+
+.blm-blog-bg {
+	background-color:#CD4144; 
+	height:60px; 
+	width: 280px;
+}
+
+.blm-motto-bg:hover {
+	background-color:#5f9cb8;
+}
+
+.blm-blog-bg:hover {
+	background-color:#5f9cb8;
+}
+
+a.nope {
+	text-decoration:none;
+	color:#FFFFFF;
+}
+
+a.nope:hover {
+	text-decoration:none;
+}
